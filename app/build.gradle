@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.carhomewrapper'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'com.example.carhomewrapper'
+        minSdk 28
+        targetSdk 34
+        versionCode 1
+        versionName '1.0'
+    }
+}

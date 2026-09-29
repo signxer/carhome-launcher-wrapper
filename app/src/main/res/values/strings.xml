@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">用于在车机设置页面自动点击无线 ADB 开关，不读取或操作其他应用内容。</string>
+</resources>
